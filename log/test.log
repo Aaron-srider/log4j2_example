@@ -1,0 +1,21 @@
+[14:43:19] [Thread main] [Level ERROR] [Name HelloWorld] - hello
+[14:43:19] [Thread main] [Level INFO ] [Name HelloWorld] - info
+[14:43:19] [Thread main] [Level INFO ] [Name HelloWorld] - info
+[14:43:19] [Thread main] [Level INFO ] [Name HelloWorld] - info
+[14:43:41] [Thread main] [Level ERROR] [Name HelloWorld] - hello
+[14:43:41] [Thread main] [Level INFO ] [Name HelloWorld] - info
+[14:43:41] [Thread main] [Level INFO ] [Name HelloWorld] - info
+[14:43:41] [Thread main] [Level INFO ] [Name HelloWorld] - info
+[14:58:11] [Thread main] [Level ERROR] [Name HelloWorld] - hello
+[14:58:11] [Thread main] [Level INFO ] [Name HelloWorld] - info
+[14:59:01] [Thread main] [Level ERROR] [Name HelloWorld] - hello
+[14:59:01] [Thread main] [Level INFO ] [Name HelloWorld] - info
+[14:59:20] [Thread main] [Level ERROR] [Name HelloWorld] - hello
+[14:59:20] [Thread main] [Level INFO ] [Name HelloWorld] - info
+[15:00:03] [Thread main] [Level ERROR] [Name HelloWorld] - hello
+[15:00:03] [Thread main] [Level INFO ] [Name HelloWorld] - info
+[15:00:09] [Thread main] [Level ERROR] [Name HelloWorld] - hello
+[15:00:09] [Thread main] [Level INFO ] [Name HelloWorld] - info
+[15:00:11] [Thread main] [Level DEBUG] [Name HelloWorld] - long_duration_task
+[15:00:13] [Thread main] [Level DEBUG] [Name HelloWorld] - long_duration_task
+[15:05:35] [Thread main] [Level ERROR] [Name HelloWorld] - hello
